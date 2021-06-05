@@ -48,3 +48,15 @@ function getGuessGender(string $name)
             break;
     }
 }
+
+
+/* Функция получения массива картинок */
+
+function getGallery()
+{
+    return [
+        1 => 'php.jpg',
+        2 => 'css.jpg',
+        3 => 'html.jpg',
+    ];
+}
