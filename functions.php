@@ -50,7 +50,7 @@ function getGuessGender(string $name)
 }
 
 
-/* Функция получения массива картинок */
+/* Функция получения массива картинок  */
 
 function getGallery()
 {
