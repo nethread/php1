@@ -20,13 +20,13 @@
     <header>
         <ul class="menu_list">
             <li><a href="/hw2/">Home work 1</a></li>
-            <li><a href="/hw2/">Home work 2</a></li>
-            <li><a href="/hw2/">Home work 3</a></li>
-            <li><a href="/hw2/">Home work 4</a></li>
-            <li><a href="/hw2/">Home work 5</a></li>
-            <li><a href="/hw2/">Home work 6</a></li>
-            <li><a href="/hw2/">Home work 7</a></li>
-            <li><a href="/hw2/">Home work 8</a></li>
+            <li><a href="/hw3/">Home work 2</a></li>
+            <li><a href="/hw4/">Home work 3</a></li>
+            <li><a href="/hw5/">Home work 4</a></li>
+            <li><a href="/hw6/">Home work 5</a></li>
+            <li><a href="/hw7/">Home work 6</a></li>
+            <li><a href="/hw8/">Home work 7</a></li>
+            <li><a href="/hw9/">Home work 8</a></li>
         </ul>
     </header>
 </body>
